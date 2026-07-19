@@ -1,10 +1,22 @@
 <p align="center">
-  <img src="images/logo.png" alt="MuCuteClient Logo" width="200"/>
+  <img src="images/logo.png" alt="Modified Client Logo" width="200"/>
 </p>
 
-# MuCuteClient: A Utility Client for Minecraft Bedrock
+# Modified Client: A Utility Client for Minecraft Bedrock
 
-**MuCuteClient** is an open-source utility client made for **Minecraft Bedrock Edition**. It uses a **MITM (Man-in-the-Middle)** approach to provide powerful gameplay enhancements — **without modifying the game’s memory or requiring root access.**
+**Modified Client** is an open-source utility client made for **Minecraft Bedrock Edition**. It uses a **MITM (Man-in-the-Middle)** approach to provide powerful gameplay enhancements — **without modifying the game client directly**.
+
+---
+
+## 📦 Version Support
+
+- **Latest Minecraft Version**: 1.26.33
+- **Supported Versions**: 1.26.33 and compatible Bedrock releases
+- **Protocol Support**: Updated for Minecraft Bedrock 1.26.33
+
+### Version 1.26.33 Features
+- Fixed texture bleeding on custom blocks when using automatic block face UV assignment with undersized textures
+- Full compatibility with all Bedrock Edition 1.26.33 protocol changes
 
 ---
 
@@ -15,6 +27,7 @@
 - **Smooth Performance**: Designed for stable connections and low-lag interaction.  
 - **User-Friendly Interface**: Clean and intuitive UI built for mobile usability.  
 - **Cross-Platform Support**: Compatible with all **Minecraft Bedrock Edition** platforms via Android MITM control.
+- **Version 1.26.33 Ready**: Fully compatible with the latest Minecraft Bedrock updates.
 
 ---
 
@@ -31,7 +44,7 @@
 
 ## 🛠️ How to Build
 
-To build MuCuteClient using **Android Studio**, follow these steps:
+To build Modified Client using **Android Studio**, follow these steps:
 
 1. **First compile MuCuteRelay**:  
    Follow the build instructions here:  
@@ -48,7 +61,7 @@ To build MuCuteClient using **Android Studio**, follow these steps:
    app/libs/
    ```
 
-4. **Open MuCuteClient in Android Studio**.
+4. **Open Modified Client in Android Studio**.
 
 5. **Assemble the APK**:  
    Go to **Build → Assemble 'app'**.  
@@ -61,18 +74,18 @@ To build MuCuteClient using **Android Studio**, follow these steps:
 
 ## License
 
-MuCuteClient is licensed under the **GNU General Public License v3.0 (GPLv3)**.
+Modified Client is licensed under the **GNU General Public License v3.0 (GPLv3)**.
 
 ### ✅ Permitted Uses
 
 - Personal use and modification.  
-- Creating content (e.g., videos or showcases) using MuCuteClient.  
+- Creating content (e.g., videos or showcases) using Modified Client.  
 - Redistributing the original or modified source code, provided you include the same GPLv3 license and make the source code available.
 
 ### ❌ Prohibited Uses
 
 - Distributing modified versions **without** including source code and the GPLv3 license.  
-- Using the MuCuteClient name or logo in a way that implies official affiliation or endorsement.  
+- Using the Modified Client name or logo in a way that implies official affiliation or endorsement.  
 - Claiming ownership of the project or its original source code.
 
 For full license information, visit:  
@@ -83,7 +96,7 @@ For full license information, visit:
 ## 🤝 Contributions
 
 We welcome and appreciate contributions from the community!  
-Whether it's code, bug reports, suggestions, or documentation — every bit helps improve **MuCuteClient**.
+Whether it's code, bug reports, suggestions, or documentation — every bit helps improve **Modified Client**.
 
 ---
 
@@ -100,9 +113,9 @@ Whether it's code, bug reports, suggestions, or documentation — every bit help
 
 ## ⚠️ Disclaimer
 
-MuCuteClient is not affiliated with Mojang Studios, Microsoft, or any official Minecraft development team.
+Modified Client is not affiliated with Mojang Studios, Microsoft, or any official Minecraft development team.
 
-Use MuCuteClient at your **Own Risk**.  
+Use Modified Client at your **Own Risk**.  
 We are **not responsible** for any bans, penalties, or issues that may result from using this client.
 
 **Always follow server rules and respect community standards.**
