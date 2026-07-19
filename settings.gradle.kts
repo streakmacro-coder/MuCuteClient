@@ -25,5 +25,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MuCuteClient"
+rootProject.name = "ModifiedClient"
 include(":app")
